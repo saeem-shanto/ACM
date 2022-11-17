@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
 I am Rakib.
 I am nobie.
+=======
+>>>>>>> parent of dcabc2c (Update test.txt.txt)
 I am rian.
